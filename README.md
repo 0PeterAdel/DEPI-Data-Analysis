@@ -2,107 +2,61 @@
 
 This repository contains all materials for the 2024 DEPI Data Analysis Program directed by the Ministry of Communications, organized by week. It includes PDF files, recorded video lectures, assignments, and additional notes to support learning.
 
+---
+## Folder Structure for Each Week
 
+Each week's folder will have the following structure:
+
+```
 DEPI-Data-Analysis-Materials/
-├── Week_01/
-│   ├── PDFs/                # Course materials in PDF format for Week 01
-│   ├── Videos/              # Recorded lecture videos for Week 01
-│   ├── Assignments/         # Completed assignments for Week 01
-│   └── Notes/               # Additional notes for Week 01
-├── Week_02/
-│   ├── PDFs/                # Course materials in PDF format for Week 02
-│   ├── Videos/              # Recorded lecture videos for Week 02
-│   ├── Assignments/         # Completed assignments for Week 02
-│   └── Notes/               # Additional notes for Week 02
-├── Week_03/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_04/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_05/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_06/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_07/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_08/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_09/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_10/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_11/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_12/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_13/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_14/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_15/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_16/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_17/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_18/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_19/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── Week_20/
-│   ├── PDFs/
-│   ├── Videos/
-│   ├── Assignments/
-│   └── Notes/
-├── README.md                # Overview of the repository and contents
-└── .gitignore               # Exclude unnecessary files
+├── Weeks/
+│   ├── Week_01/
+│   │   ├── Material-PDF/
+│   │   ├── Lecture-Records/
+│   │   ├── Assignments/
+│   │   └── Notes/
+│   ├── Week_02/
+│   │   ├── Material-PDF/
+│   │   ├── Lecture-Records/
+│   │   ├── Assignments/
+│   │   └── Notes/
+│   ├── Week_03/
+│   │   ├── Material-PDF/
+│   │   ├── Lecture-Records/
+│   │   ├── Assignments/
+│   │   └── Notes/
+│   └── ...
+├── Assets/
+├── README.md
+└── LICENSE         
+```
+
+## Repository Structure
+
+### [Week 01](.Weeks/Week_01)
+- [**Material-PDF**](.Weeks/Week_01/Material-PDF)         # Course materials in PDF format for Week 01
+- [**Lecture-Records**](.Weeks/Week_01/Lecture-Records)   # Recorded lecture videos for Week 01
+- [**Assignments**](.Weeks/Week_01/Assignments)           # Completed assignments for Week 01
+- [**Notes**](.Weeks/Week_01/Notes)                       # Additional notes for Week 01
+
+### [Week 02](./Week_02)
+- [**Material-PDF**](.Weeks/Week_02/Material-PDF)         
+- [**Lecture-Records**](.Weeks/Week_02/Lecture-Records)   
+- [**Assignments**](.Weeks/Week_02/Assignments)           
+- [**Notes**](./Week_02/Notes)
+
+### [Week 03](./Week_03)
+- [**Material-PDF**](.Weeks/Week_03/Material-PDF)         
+- [**Lecture-Records**](.Weeks/Week_03/Lecture-Records)   
+- [**Assignments**](.Weeks/Week_03/Assignments)           
+- [**Notes**](.Weeks/Week_03/Notes)
+
+### [Week 04](./Week_04)
+- [**Material-PDF**](.Weeks/Week_04/Material-PDF)         
+- [**Lecture-Records**](.Weeks/Week_04/Lecture-Records)   
+- [**Assignments**](.Weeks/Week_04/Assignments)           
+- [**Notes**](.Weeks/Week_04/Notes)
+
+---
+
+## Don't forget to support us with a ⭐!
