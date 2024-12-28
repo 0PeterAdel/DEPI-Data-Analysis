@@ -2,14 +2,18 @@
 
 This repository contains all materials for the 2024 DEPI Data Analysis Program directed by the Ministry of Communications, organized by week. It includes PDF files, recorded video lectures, assignments, and additional notes to support learning.
 
----
-## Folder Structure for Each Week
+This repository has been created by [@Peter_Adel](https://peteradel.netlify.app) to share materials for the DEPI Data Analysis Program. The purpose of this repository is to support your journey in data analysis by providing essential resources, including PDFs, recorded video lectures, assignments, and notes.
 
-Each week's folder will have the following structure:
+Feel free to explore and utilize these materials to enhance your learning experience. For more about my work and projects, check out my [My Portfolio](https://peteradel.netlify.app) and connect with me on [My LinkedIn](https://www.linkedin.com/in/1peteradel/).
+
+---
+## Folder Structure
+
+The main folder structure is organized as follows:
 
 ```
 DEPI-Data-Analysis-Materials/
-├── Weeks/
+├── DEPI-Data-Analysis-2025/
 │   ├── Week_01/
 │   │   ├── Material-PDF/
 │   │   ├── Lecture-Records/
@@ -26,37 +30,74 @@ DEPI-Data-Analysis-Materials/
 │   │   ├── Assignments/
 │   │   └── Notes/
 │   └── ...
+│   └── Final Project/
+├── CVs & Interviews - Blended Session/
+├── Freelancing Platforms - Blended Session/
+├── Personal branding & LinkedIn - Blended Session/
+├──  Final Project/
 ├── Assets/
 ├── README.md
 └── LICENSE         
 ```
 
-## Repository Structure
+---
 
-### [Week 01](.Weeks/Week_01)
-- [**Material-PDF**](.Weeks/Week_01/Material-PDF)         # Course materials in PDF format for Week 01
-- [**Lecture-Records**](.Weeks/Week_01/Lecture-Records)   # Recorded lecture videos for Week 01
-- [**Assignments**](.Weeks/Week_01/Assignments)           # Completed assignments for Week 01
-- [**Notes**](.Weeks/Week_01/Notes)                       # Additional notes for Week 01
+## Course Materials
 
-### [Week 02](./Week_02)
-- [**Material-PDF**](.Weeks/Week_02/Material-PDF)         
-- [**Lecture-Records**](.Weeks/Week_02/Lecture-Records)   
-- [**Assignments**](.Weeks/Week_02/Assignments)           
-- [**Notes**](./Week_02/Notes)
+### DEPI Data Analysis 2025
 
-### [Week 03](./Week_03)
-- [**Material-PDF**](.Weeks/Week_03/Material-PDF)         
-- [**Lecture-Records**](.Weeks/Week_03/Lecture-Records)   
-- [**Assignments**](.Weeks/Week_03/Assignments)           
-- [**Notes**](.Weeks/Week_03/Notes)
+Each week in the **DEPI-Data-Analysis-2025** folder will include the following:
 
-### [Week 04](./Week_04)
-- [**Material-PDF**](.Weeks/Week_04/Material-PDF)         
-- [**Lecture-Records**](.Weeks/Week_04/Lecture-Records)   
-- [**Assignments**](.Weeks/Week_04/Assignments)           
-- [**Notes**](.Weeks/Week_04/Notes)
+- **Week_01**
+  - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_01/Material-PDF): PDFs containing all course materials for Week 01.
+  - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week_01/Lecture-Records): Video recordings of lectures delivered in Week 01.
+  - [**Assignments**](./DEPI-Data-Analysis-2025/Week_01/Assignments): Assignments and exercises for Week 01.
+  - [**Notes**](./DEPI-Data-Analysis-2025/Week_01/Notes): Additional notes and references for Week 01.
+
+- **Week_02**
+  - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_02/Material-PDF): PDFs containing all course materials for Week 02.
+  - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week_02/Lecture-Records): Video recordings of lectures delivered in Week 02.
+  - [**Assignments**](./DEPI-Data-Analysis-2025/Week_02/Assignments): Assignments and exercises for Week 02.
+  - [**Notes**](./DEPI-Data-Analysis-2025/Week_02/Notes): Additional notes and references for Week 02.
+
+- **Week_03**
+  - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_03/Material-PDF): PDFs containing all course materials for Week 03.
+  - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week_03/Lecture-Records): Video recordings of lectures delivered in Week 03.
+  - [**Assignments**](./DEPI-Data-Analysis-2025/Week_03/Assignments): Assignments and exercises for Week 03.
+  - [**Notes**](./DEPI-Data-Analysis-2025/Week_03/Notes): Additional notes and references for Week 03.
+
+- **Final Project**
+  - [**Final Project**](./DEPI-Data-Analysis-2025/Final%20Project): Details and materials for the final project.
+
+### Other Sessions
+
+- [**CVs & Interviews - Blended Session**](./CVs%20&%20Interviews%20-%20Blended%20Session/): Materials for CV writing and interview preparation.
+- [**Freelancing Platforms - Blended Session**](./Freelancing%20Platforms%20-%20Blended%20Session/): Resources related to freelancing platforms.
+- [**Personal Branding & LinkedIn - Blended Session**](./Personal%20Branding%20&%20LinkedIn%20-%20Blended%20Session/): Tips and resources for personal branding and LinkedIn optimization.
+- [**Final Project**](./Final%20Project/): Information and materials related to the final project.
 
 ---
 
-## Don't forget to support us with a ⭐!
+## License
+
+This repository is licensed under the [MIT License](./LICENSE).
+
+---
+
+## Contributing
+
+Feel free to contribute by suggesting improvements or adding materials. Please fork the repository and create a pull request.
+
+---
+
+## ⭐ Show Your Support
+
+If you find this repository helpful, please give it a star to show your support!
+
+###
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+####
