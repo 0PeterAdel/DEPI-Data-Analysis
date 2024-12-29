@@ -1,0 +1,20 @@
+Table,Field,Description
+Line productivity,,Fact table containing details for each batch produced
+Line productivity,Date,Date the batch was produced
+Line productivity,Product,ID for the product produced in the batch
+Line productivity,Batch,Unique ID for the batch produced
+Line productivity,Operator,Production line operator in charge of the batch
+Line productivity,Start Time,Time the batch production started
+Line productivity,End Time,Time the batch production ended
+Products,,Dimension table with details on each product
+Products,Product,Unique product ID
+Products,Flavor,Soda flavor for the product
+Products,Size,Product size (volume)
+Products,Min batch time,Minimum time required to produce a batch (with no downtime)
+Line downtime,,Fact table containing downtime (in minutes) by factor for each batch
+Line downtime,Batch,Unique ID for the batch produced
+Line downtime,Downtime factor,Downtime minutes for each factor ID (across columns)
+Downtime factors,,Dimension table with details on each downtime factor
+Downtime factors,Factor,Unique ID for each downtime factor
+Downtime factors,Description,Downtime factor description
+Downtime factors,Operator Error,Is this due to operator error? (Yes/No)
