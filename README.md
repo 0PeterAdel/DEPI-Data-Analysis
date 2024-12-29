@@ -25,7 +25,7 @@ DEPI-Data-Analysis-Materials/
 │   │   |   ├── Lecture-Records/
 │   │   |   ├── Assignments/
 │   │   |   └── Notes/
-│   │   ├── 3.3.Skills Session
+│   │   ├── 3.Skills Session
 │   │   |   ├── Material-PDF/
 │   │   |   ├── Lecture-Records/
 │   │   |   ├── Assignments/
@@ -70,11 +70,23 @@ DEPI-Data-Analysis-Materials/
 Each week in the **DEPI-Data-Analysis-2025** folder will include the following:
 
 - **Week_01**
-  - [**1.Technical Session**](./DataAnalysis 2025/Week01/1.Technical Session)
-    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/Material-PDF): PDFs containing all course materials for Week 01.
-    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/Lecture-Records): Video recordings of lectures delivered in Week 01.
-    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/Assignments): Assignments and exercises for Week 01.
-    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/Notes): Additional notes and references for Week 01.
+  - [**1.Technical Session**](./DataAnalysis%202025/Week01/1.Technical%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Notes): Additional notes and references for Week 01.
+      
+  - [**2.Technical Session**](./DataAnalysis%202025/Week01/2.Technical%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Notes): Additional notes and references for Week 01.
+
+  - [**3.Skills Session**](./DataAnalysis%202025/Week01/3.Skills%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Notes): Additional notes and references for Week 01.
 
 - **Week_02**
   - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_02/Material-PDF): PDFs containing all course materials for Week 02.
