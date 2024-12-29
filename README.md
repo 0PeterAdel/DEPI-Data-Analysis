@@ -15,20 +15,41 @@ The main folder structure is organized as follows:
 DEPI-Data-Analysis-Materials/
 ├── DEPI-Data-Analysis-2025/
 │   ├── Week_01/
-│   │   ├── Material-PDF/
-│   │   ├── Lecture-Records/
-│   │   ├── Assignments/
-│   │   └── Notes/
+│   │   ├── 1.Technical Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
+│   │   ├── 2.Technical Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
+│   │   ├── 3.3.Skills Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
 │   ├── Week_02/
-│   │   ├── Material-PDF/
-│   │   ├── Lecture-Records/
-│   │   ├── Assignments/
-│   │   └── Notes/
+│   │   ├── 1.Technical Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
+│   │   ├── 2.Technical Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
+│   │   ├── 3.3.Skills Session
+│   │   |   ├── Material-PDF/
+│   │   |   ├── Lecture-Records/
+│   │   |   ├── Assignments/
+│   │   |   └── Notes/
 │   ├── Week_03/
-│   │   ├── Material-PDF/
-│   │   ├── Lecture-Records/
-│   │   ├── Assignments/
-│   │   └── Notes/
+│   │   ├── 1.Technical Session
+│   │   ├── 2.Technical Session
+│   │   └── 3.3.Skills Session
 │   └── ...
 │   └── Final Project/
 ├── CVs & Interviews - Blended Session/
