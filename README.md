@@ -70,33 +70,33 @@ DEPI-Data-Analysis-Materials/
 Each week in the **DEPI-Data-Analysis-2025** folder will include the following:
 
 - **Week_01**
-  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session)
-    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
-    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
-    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Assignments): Assignments and exercises for Week 01.
-    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/1.Technical%20Session/Notes): Additional notes and references for Week 01.
+  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/weak01/1.Technical%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/weak01/1.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/weak01/1.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/weak01/1.Technical%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/weak01/1.Technical%20Session/Notes): Additional notes and references for Week 01.
       
-  - [**2.Technical Session**](./DEPI-Data-Analysis-2025//Week01/2.Technical%20Session)
-    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
-    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
-    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Assignments): Assignments and exercises for Week 01.
-    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/2.Technical%20Session/Notes): Additional notes and references for Week 01.
+  - [**2.Technical Session**](./DEPI-Data-Analysis-2025/weak01/2.Technical%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/weak01/2.Technical%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/weak01/2.Technical%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/weak01/2.Technical%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/weak01/2.Technical%20Session/Notes): Additional notes and references for Week 01.
 
-  - [**3.Skills Session**](./DEPI-Data-Analysis-2025//Week01/3.Skills%20Session)
-    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Material-PDF): PDFs containing all course materials for Week 01.
-    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
-    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Assignments): Assignments and exercises for Week 01.
-    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/3.Skills%20Session/Notes): Additional notes and references for Week 01.
+  - [**3.Skills Session**](./DEPI-Data-Analysis-2025/weak01/3.Skills%20For%20Freelancing%20Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/weak01/3.Skills%20For%20Freelancing%20Session/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/weak01/3.Skills%20For%20Freelancing%20Session/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/weak01/3.Skills%20For%20Freelancing%20Session/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/weak01/3.Skills%20For%20Freelancing%20Session/Notes): Additional notes and references for Week 01.
 
 - **Week_02**
-  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/Week02/1.Technical%20Session)      
-  - [**2.Technical Session**](./DEPI-Data-Analysis-2025/Week02/2.Technical%20Session)
-  - [**3.Skills Session**](./DEPI-Data-Analysis-2025/Week02/3.Skills%20Session)
+  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/weak02/1.Technical%20Session)      
+  - [**2.Technical Session**](./DEPI-Data-Analysis-2025/weak02/2.Technical%20Session)
+  - [**3.Skills Session**](./DEPI-Data-Analysis-2025/weak02/3.Skills%20For%20Freelancing%20Session)
 
 - **Week_03**
-  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/Week03/1.Technical%20Session)      
-  - [**2.Technical Session**](./DEPI-Data-Analysis-2025/Week03/2.Technical%20Session)
-  - [**3.Skills Session**](./DEPI-Data-Analysis-2025/Week03/3.Skills%20Session)
+  - [**1.Technical Session**](./DEPI-Data-Analysis-2025/weak03/1.Technical%20Session)      
+  - [**2.Technical Session**](./DEPI-Data-Analysis-2025/weak03/2.Technical%20Session)
+  - [**3.Skills Session**](./DEPI-Data-Analysis-2025/weak03/3.Skills%20For%20Freelancing%20Session)
 
 - **Final Project**
   - [**Final Project**](./Final%20Project): Details and materials for the final project.
