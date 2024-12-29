@@ -14,7 +14,7 @@ The main folder structure is organized as follows:
 ```
 DEPI-Data-Analysis-Materials/
 ├── DEPI-Data-Analysis-2025/
-│   ├── Week_01/
+│   ├── Week01/
 │   │   ├── 1.Technical Session
 │   │   |   ├── Material-PDF/
 │   │   |   ├── Lecture-Records/
@@ -30,7 +30,7 @@ DEPI-Data-Analysis-Materials/
 │   │   |   ├── Lecture-Records/
 │   │   |   ├── Assignments/
 │   │   |   └── Notes/
-│   ├── Week_02/
+│   ├── Week02/
 │   │   ├── 1.Technical Session
 │   │   |   ├── Material-PDF/
 │   │   |   ├── Lecture-Records/
@@ -46,7 +46,7 @@ DEPI-Data-Analysis-Materials/
 │   │   |   ├── Lecture-Records/
 │   │   |   ├── Assignments/
 │   │   |   └── Notes/
-│   ├── Week_03/
+│   ├── Week03/
 │   │   ├── 1.Technical Session
 │   │   ├── 2.Technical Session
 │   │   └── 3.3.Skills Session
@@ -70,10 +70,11 @@ DEPI-Data-Analysis-Materials/
 Each week in the **DEPI-Data-Analysis-2025** folder will include the following:
 
 - **Week_01**
-  - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_01/Material-PDF): PDFs containing all course materials for Week 01.
-  - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week_01/Lecture-Records): Video recordings of lectures delivered in Week 01.
-  - [**Assignments**](./DEPI-Data-Analysis-2025/Week_01/Assignments): Assignments and exercises for Week 01.
-  - [**Notes**](./DEPI-Data-Analysis-2025/Week_01/Notes): Additional notes and references for Week 01.
+  - [**1.Technical Session**](./DataAnalysis 2025/Week01/1.Technical Session)
+    - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week01/Material-PDF): PDFs containing all course materials for Week 01.
+    - [**Lecture-Records**](./DEPI-Data-Analysis-2025/Week01/Lecture-Records): Video recordings of lectures delivered in Week 01.
+    - [**Assignments**](./DEPI-Data-Analysis-2025/Week01/Assignments): Assignments and exercises for Week 01.
+    - [**Notes**](./DEPI-Data-Analysis-2025/Week01/Notes): Additional notes and references for Week 01.
 
 - **Week_02**
   - [**Material-PDF**](./DEPI-Data-Analysis-2025/Week_02/Material-PDF): PDFs containing all course materials for Week 02.
