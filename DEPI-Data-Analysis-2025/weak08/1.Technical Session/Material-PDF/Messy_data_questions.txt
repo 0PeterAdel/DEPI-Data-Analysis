@@ -1,0 +1,20 @@
+Answer first with views then convert them to CTEs?
+
+
+1- For the special case of 'Gmbh' we want it to be 'GmbH'
+
+
+2-we would like to store the email provider in a seperate column.
+ Please extract the email provider from all email addresses and store it in a new column called
+'email_provider'
+Fro example if the email is mohamed@gmail.com then email provider is gmail
+
+3. Furthermore, we want all street names to be in a consistent format.
+ For that, please make sure all the different version of street in
+ german (str, Str, strasse, straße, Strasse) are replaced by simply
+ 'street' using neted replace functions.
+
+4. for the columns address, country, email check if they are empty convert them to null using NUllif 
+and then use if null or coalesce to fill it with NA  
+
+

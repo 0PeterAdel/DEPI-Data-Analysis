@@ -1,0 +1,31 @@
+Exercise:
+You have access to the Northwind database, which contains information about
+orders, customers, products, and suppliers. 
+
+Your task is to analyze supplier performance for the year 2016.
+Specifically, identify which suppliers provided the most orders and calculate
+the total number of items ordered from each supplier. 
+Only include suppliers who provided more than 10 orders in 2016. 
+The results should include the supplier's contactname, the total number of orders,
+and the total quantity of products supplied.
+
+Hint steps:
+
+Table Joins:
+
+Use JOIN to link the relevant tables (Suppliers, Products, OrderDetails, Orders) together.
+Subqueries:
+
+Use aggregate functions like COUNT() and SUM() to calculate the total number of orders and total items ordered for each supplier.
+GROUP BY:
+
+Group the results by SupplierName to aggregate the order data for each supplier.
+HAVING:
+
+Use the HAVING clause to filter suppliers with more than 10 orders.
+WHERE:
+
+Use WHERE to filter for orders within a specific date range (in this case, for the year 1997).
+Ordering Results:
+
+Use ORDER BY to sort the results based on the total number of orders.
